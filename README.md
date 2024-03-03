@@ -1,15 +1,15 @@
 # Django Project with Tesseract OCR Integration Checklist
 
 ## Environment Setup
-- [ ] Set up a virtual environment for the project.
-- [ ] Install Django within the virtual environment.
+- [x] Set up a virtual environment for the project.
+- [x] Install Django within the virtual environment.
 - [ ] Install Tesseract OCR on your system.
-- [ ] Install the `pytesseract` Python package.
+- [x] Install the `pytesseract` Python package.
 
 ## Django Project and App Setup
-- [ ] Create a new Django project using `django-admin startproject your_project_name`.
-- [ ] Inside the project directory, create a new Django app using `python manage.py startapp your_app_name`.
-- [ ] Add your app to the `INSTALLED_APPS` list in the project's `settings.py`.
+- [x] Create a new Django project using `django-admin startproject your_project_name`.
+- [x] Inside the project directory, create a new Django app using `python manage.py startapp your_app_name`.
+- [x] Add your app to the `INSTALLED_APPS` list in the project's `settings.py`.
 - [ ] Configure other settings as necessary (e.g., database settings).
 
 ## Design Your Model
